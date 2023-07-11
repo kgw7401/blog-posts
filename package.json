@@ -1,0 +1,25 @@
+{
+    "name": "blog-posts",
+    "version": "1.0.0",
+    "description": "티스토리 최신 블로그 글",
+    "main": "readmeUpdate.js",
+    "type": "module",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1",
+      "start": "node readmeUpdate.js"
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/kgw7401/blog-posts.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+      "url": "https://github.com/kgw7401/blog-posts/issues"
+    },
+    "homepage": "https://github.com/kgw7401/blog-posts#readme",
+    "dependencies": {
+      "rss-parser": "^3.13.0"
+    }
+  }
